@@ -6,7 +6,7 @@ Dự án nghiên cứu tổng quan về An toàn thông tin và An ninh mạng, 
 ## 👥 Danh sách thành viên & Nhiệm vụ
 
 | STT | Họ và tên | Mã SV |
-|:---:|:---||
+|:---:|:---|:---|
 | **1** |**Đỗ Hữu Đức** | 2023605724 |
 | **2** | **Đào Hữu Hưng** | 2023606905 |
 | **3** | **Nguyễn Văn Hiếu** | 2023606332 |
