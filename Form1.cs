@@ -68,7 +68,7 @@ namespace WindowsFormsApp1
                 btnMoFileMaHoa.Enabled = true;
                 btnMoFileGiaiMa.Enabled = true;
 
-                // Khôi phục lại màu sắc ban đầu (màu tím giao diện của bạn)
+                // Khôi phục lại màu sắc ban đầu 
                 btnMoFileMaHoa.BackColor = Color.Purple;
                 btnMoFileGiaiMa.BackColor = Color.Purple;
 
@@ -78,7 +78,7 @@ namespace WindowsFormsApp1
             }
         }
 
-        // Sự kiện xảy ra khi người dùng click thay đổi giữa Thủ công và Tự động
+        // người dùng click thay đổi giữa Thủ công và Tự động
         private void rdbThucong_CheckedChanged(object sender, EventArgs e)
         {
             CapNhatTrangThaiTaiFile();
